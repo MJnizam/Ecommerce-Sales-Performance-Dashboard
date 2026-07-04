@@ -12,17 +12,18 @@ Sales by product category, performance by city, monthly sales trends, revenue pr
 This project teaches real skills in business analytics, data visualization, KPI reporting, forecasting, and dashboard design using Microsoft Excel. It demonstrates the capacity to transform unprocessed business data into useful insights, which qualifies it for executive reporting and performance tracking in an actual corporate setting.
 ### Data Structure
 The dataset consists of two sheets:
-1. **Dashboard**
-   – Sales Performance
-   ![alt text](
-3. **Transactions** – Detailed sales transactions including product types, store locations, and timestamps.
-![alt text](https://github.com/MJnizam/Portfolio-Project/blob/main/excel_coffee.PNG)
+1. **Summary**
+   
+- Sales Performance
+  
+![alt text](https://github.com/MJnizam/Ecommerce-Sales-Performance-Dashboard/blob/main/Screenshot%202026-07-04%20153827.png)
+- Forecast Sales 2026
+  
+![alt text](https://github.com/MJnizam/Ecommerce-Sales-Performance-Dashboard/blob/main/Screenshot%202026-07-04%20153928.png)
 
-## [2. Coffee Shop Sales Report](https://1drv.ms/x/c/9e8fde36bdd38ef5/EbsMWrWA39hNpL1_-i9ysI8BHEGLN4I6-1CnlZuLc9zwiw?e=xCHc4R)
-### Overview
-This project analyzes a coffee shop's sales data to identify revenue trends, product performance, and customer purchasing behaviors.
-### Data Structure
-The dataset consists of two sheets:
-1. **Dashboard** – Summarized revenue data by month.
-2. **Transactions** – Detailed sales transactions including product types, store locations, and timestamps.
-![alt text](https://github.com/MJnizam/Portfolio-Project/blob/main/excel_coffee.PNG)
+2. **MTD**
+- Detailed Monthly Sales Performance by each Categories.
+
+3. **Business Trend**
+Overall average monthly growth remained positive despite fluctuations, suggesting healthy long-term sales performance.
+   
